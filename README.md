@@ -145,17 +145,6 @@ pip install -r requirements.txt
      ```
    - Evaluate model performance using provided evaluation scripts.
 
----
-
-## ✍️ Citation
-
-If you use this repository or its results, please cite the datasets and this repository appropriately.
-
----
-
-## 🤝 Contributing
-
-Contributions and suggestions are welcome! Please open an issue or pull request.
 
 ---
 
