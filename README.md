@@ -16,7 +16,7 @@ This repository presents deep learning-based models for detecting violent conten
     - 350 annotated videos (230 violent, 120 non-violent)
     - Smaller, diverse, useful for benchmarking.
 
-![Sample frame from dataset](blob/main/vio_2.jpg)
+![Sample frame from dataset](vio_2.jpg)
 
 ---
 
