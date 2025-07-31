@@ -4,8 +4,6 @@
 
 This repository presents deep learning-based models for detecting violent content in video streams (real-time or pre-recorded). Multiple model architectures are explored and compared for their effectiveness on benchmark datasets.
 
-![image1](image1)
-
 ---
 
 ## 📊 Datasets Used
@@ -17,6 +15,8 @@ This repository presents deep learning-based models for detecting violent conten
 2. **A Dataset for Automatic Violence Detection in Videos** ([AIRT Lab](https://airt.ai/))
     - 350 annotated videos (230 violent, 120 non-violent)
     - Smaller, diverse, useful for benchmarking.
+
+![Sample frame from dataset](Violence_Detection/blob/main/vio_2.jpg)
 
 ---
 
