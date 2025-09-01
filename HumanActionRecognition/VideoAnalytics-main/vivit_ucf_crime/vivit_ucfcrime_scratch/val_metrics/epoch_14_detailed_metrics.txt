@@ -1,0 +1,29 @@
+===== Overall Metrics =====
+Accuracy: 0.1357
+Precision Macro: 0.0517
+Recall Macro: 0.0816
+F1 Macro: 0.0592
+Precision Micro: 0.1357
+Recall Micro: 0.1357
+F1 Micro: 0.1357
+Precision Weighted: 0.0760
+Recall Weighted: 0.1357
+F1 Weighted: 0.0921
+
+===== Per-Class Metrics =====
+Class                            Accuracy  Precision     Recall   F1-Score
+--------------------------------------------------------------------------
+Abuse                              0.0000     0.0000     0.0000     0.0000
+Arrest                             0.0000     0.0000     0.0000     0.0000
+Arson                              0.1429     0.0667     0.1429     0.0909
+Assault                            0.0000     0.0000     0.0000     0.0000
+Burglary                           0.0000     0.0000     0.0000     0.0000
+Explosion                          0.0000     0.0000     0.0000     0.0000
+Fighting                           0.0000     0.0000     0.0000     0.0000
+Normal_Videos_for_Event_Recognition     0.0000     0.0000     0.0000     0.0000
+RoadAccidents                      0.4286     0.1324     0.4286     0.2022
+Robbery                            0.2857     0.2069     0.2857     0.2400
+Shooting                           0.0000     0.0000     0.0000     0.0000
+Shoplifting                        0.0000     0.0000     0.0000     0.0000
+Stealing                           0.1429     0.1176     0.1429     0.1290
+Vandalism                          0.1429     0.2000     0.1429     0.1667
